@@ -40,8 +40,8 @@ This project focuses on Financial Risk Analysis using customer financial data. I
 
 - Dataset: financial_risk.csv
 - Analysis Report: Financial Risk Analysis
-- Power BI Dashboard: Financial Risk Dashboard
-- Presentations: Final Presentation and Milestone 3 Presentation
+- Power BI Dashboard: Financial Risk Analysis Dashboard
+- Presentations: Final Presentation and Milestone 4 Presentation
 
 ## Tools Used
 
